@@ -1,0 +1,49 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2018-06-14,Russia,Saudi Arabia,1,1,FIFA World Cup,Moscow,Russia,FALSE
+2018-06-15,Egypt,Uruguay,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-15,Morocco,Iran,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-15,Portugal,Spain,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-16,France,Australia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-16,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-16,Peru,Denmark,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-16,Croatia,Nigeria,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-17,Costa Rica,Serbia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-17,Germany,Mexico,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-18,Sweden,Korea Republic,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-18,Belgium,Panama,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-18,Tunisia,England,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-19,Colombia,Japan,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-19,Poland,Senegal,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-19,Russia,Egypt,1,1,FIFA World Cup,Moscow,Russia,FALSE
+2018-06-20,Portugal,Morocco,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-20,Uruguay,Saudi Arabia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-20,Iran,Spain,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-21,Denmark,Australia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-21,France,Peru,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-21,Argentina,Croatia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-22,Brazil,Costa Rica,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-22,Nigeria,Iceland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-22,Serbia,Switzerland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-23,Belgium,Tunisia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-23,Korea Republic,Mexico,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-23,Germany,Sweden,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-24,England,Panama,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-24,Japan,Senegal,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-24,Poland,Colombia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-25,Saudi Arabia,Egypt,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-25,Russia,Uruguay,1,1,FIFA World Cup,Moscow,Russia,FALSE
+2018-06-25,Iran,Portugal,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-25,Spain,Morocco,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-26,Australia,Peru,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-26,Denmark,France,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-26,Iceland,Croatia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-26,Nigeria,Argentina,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-27,Mexico,Sweden,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-27,Korea Republic,Germany,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-27,Serbia,Brazil,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-27,Switzerland,Costa Rica,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-28,Japan,Poland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-28,Senegal,Colombia,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-28,England,Belgium,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-28,Panama,Tunisia,1,1,FIFA World Cup,Moscow,Russia,TRUE
